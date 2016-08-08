@@ -6,6 +6,18 @@
 
 ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)
 
+### Technology Used
+
+[Jasmine](https://camo.githubusercontent.com/d3afdfc8b8075b9daf5109c4af7b8b07ab2d7c04/68747470733a2f2f7261776769746875622e636f6d2f6a61736d696e652f6a61736d696e652f6d61737465722f696d616765732f6a61736d696e652d686f72697a6f6e74616c2e737667)
+
+[sinon](https://www.npmjs.com/package/sinon)
+
+[jasmine](https://www.npmjs.com/package/jasmine)
+
+[jasmine-expect-jsx](https://www.npmjs.com/package/jasmine-expect-jsx)
+
+[react-addons-test-utils](https://www.npmjs.com/package/react-addons-test-utils)
+
 ### Usage Instructions
 
 
