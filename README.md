@@ -8,6 +8,7 @@
 
 ### Usage Instructions
 
+
 1. Clone the repository on GitHub (git clone https://github.com/tech-dojo/react-testing-example.git)
 
 2. Go to directory (cd react-testing-example)
@@ -16,7 +17,8 @@
 
 4. Run app with `npm start`
 
-5. Go to http://localhost:3000/test.html 
+5. Go to http://localhost:3000/test.html to see the test results
+
 
 #### [Demo on CodePen](http://codepen.io/mahfuz-aftab/pen/LkJXjr)
 
