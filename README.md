@@ -17,10 +17,10 @@
 
 4. Run app with `npm start`
 
-5. Go to http://localhost:3000/test.html to see the test results
+5. Go to `http://localhost:3000/test.html` to see the test results
 
 
-#### [Demo on CodePen](http://codepen.io/mahfuz-aftab/pen/LkJXjr)
+#### [Code Demo on CodePen](http://codepen.io/mahfuz-aftab/pen/LkJXjr)
 
 ### License
 
