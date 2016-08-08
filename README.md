@@ -11,7 +11,7 @@
 
 1. Clone the repository on GitHub (git clone https://github.com/tech-dojo/react-testing-example.git)
 
-2. Go to directory (cd react-testing-example)
+2. Go to directory (`cd react-testing-example`)
 
 3. Install dependencies with `npm install`
 
